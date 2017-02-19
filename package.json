@@ -1,0 +1,38 @@
+{
+  "name": "blockchain-demo",
+  "description": "A web-based demonstration of blockchain concepts.",
+  "author": {
+    "name": “Islem Khemissi”
+  },
+  "version": "0.0.1",
+  "keywords": [
+    "blockchain",
+    "demo",
+    "bitcoin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islem-kms/blockchain-demo.git"
+  },
+  "bugs": {
+    "url": "https://https://github.com/islem-kms/blockchain-demo.git/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "express": "^4.13.4",
+    "serve-favicon": "^2.3.0",
+    "morgan": "^1.7.0",
+    "cookie-parser": "^1.4.3",
+    "body-parser": "~1.15.2",
+    "debug": "~2.2.0",
+    "jade": "~1.11.0"
+  },
+  "homepage": "https://github.com/islem-kms/blockchain-demo#readme",
+  "maintainers": [
+    {
+      "name": “isles-kms”,
+      "email": “Khemissi.islem@gmail.com”
+    }
+  ]
+}
